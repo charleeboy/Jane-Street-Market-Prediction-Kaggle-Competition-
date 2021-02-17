@@ -1,0 +1,8 @@
+Tasks for Wednesday
+
+1. Coding template for the pipeline , and models (Charles)
+
+2. The features table need to be worked on, I think it needs null analysis  ( maybe encoding nulls as a categories) categorical encoding and clustering into groups
+Also we need to do PCA, to merge similar feature columns, I have done a correlation matrix, it can be used to work out which feature columns to merge together. (I think we should done together with feature table analysis as this would give additional information on how feature are related) (2 people could work on this)
+
+3. Feature engineering need to be done today so , I think moving averages, and time shifts(daily,weekly and monthly)on the resp, resp1, resp2, resp3, resp4. Maybe calculating volatility would be an idea (I have code on how to do that if help calculating needed) & calculate resp1, resp2, resp3 and resp4 for test.csv 
